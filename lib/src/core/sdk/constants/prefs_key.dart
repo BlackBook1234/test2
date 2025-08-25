@@ -1,0 +1,42 @@
+class PrefsKeys {
+  static const String language = 'language';
+  static const String isInstructionShow = 'isInstructionShow';
+  static const String firstToken = 'firstToken';
+  static const String authToken = 'authToken';
+  static const String isDeviceRegistered = 'isDeviceRegistered';
+  static const String hasPin = 'hasPin';
+  static const String pinToken = 'pinToken';
+  static const String deviceToken = 'deviceToken';
+  static const String isAuth = 'isAuth';
+  static const String userData = 'userData';
+  static const String username = 'username';
+  static const String bypassEnabled = 'bypassEnabled';
+  static const String bypassIdToken = 'bypassIdToken';
+  static const String lastName = 'lastName';
+  static const String firstName = 'firstName';
+
+  static const String phone = 'phone';
+  static const String accountNo = 'accountNo';
+  static const String biometricPin = 'biometricPin';
+  static const String balancePin = 'balancePin';
+  static const String statementPin = 'statementPin';
+  static const String shareData = 'shareData';
+  static const String currentTheme = 'currentTheme';
+  static const String userIds = 'userIds';
+  static const String isHideBalanceAndAccountNumber = 'isHideBalanceAndAccountNumber';
+  static const String isHideLongBalance = 'isHideLongBalance';
+  static const String isMezRegistered = 'isMezRegistered';
+  static const String promoParticipated = 'promoParticipated';
+  static const String eventList = 'eventList';
+  static const String deviceUid = 'deviceUid';
+  static const String invoiceUri = 'invoiceUri';
+  static const String isGoalSensitive = 'isGoalSensitive';
+  static const String isWalletSensitive = 'isWalletSensitive';
+  static const String hiddenInfoKidList = 'hiddenInfoKidList';
+  static const String newYearIntroShow = 'newYearIntroShow';
+  static const String monpayUpIntroShow = 'monpayUpIntroShow';
+  static const String loyaltyTTIntroShow = 'loyaltyTTIntroShow';
+  static const String warningDialogDate = 'warningDialogDate';
+  static const String didShowPromoVideo = 'didShowPromoVideo';
+  static const String showTicketTerms = 'showTicketTerms';
+}
