@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1099054987362",
+    "project_id": "chat-app-a9e08",
+    "storage_bucket": "chat-app-a9e08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099054987362:android:32f43614449c056b41393b",
+        "android_client_info": {
+          "package_name": "com.example.aichatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPKdA8W1sLTmHOukfAv9IpF6zHfg7I9P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099054987362:android:4844ec66ebd64fda41393b",
+        "android_client_info": {
+          "package_name": "com.example.chat_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPKdA8W1sLTmHOukfAv9IpF6zHfg7I9P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099054987362:android:a3f5cf98d8237d1b41393b",
+        "android_client_info": {
+          "package_name": "com.example.sampark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPKdA8W1sLTmHOukfAv9IpF6zHfg7I9P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
